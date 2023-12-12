@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/dancesbo/static/css/main.34fe955b.css",
+    "main.js": "/dancesbo/static/js/main.d01816ac.js",
+    "static/js/787.fd10fff4.chunk.js": "/dancesbo/static/js/787.fd10fff4.chunk.js",
+    "static/media/tinku.jpeg": "/dancesbo/static/media/tinku.a4396c8ff6f89eef7cd1.jpeg",
+    "static/media/morenada.jpg": "/dancesbo/static/media/morenada.4954282edc85d871aee9.jpg",
+    "static/media/pinkillada.jpg": "/dancesbo/static/media/pinkillada.72ac6c825c9dedf08933.jpg",
+    "static/media/potolos.jpg": "/dancesbo/static/media/potolos.80537956a89346385ec0.jpg",
+    "static/media/kullawada.jpg": "/dancesbo/static/media/kullawada.759200f7a38eaee1807c.jpg",
+    "static/media/salaque.jpg": "/dancesbo/static/media/salaque.c6377ddfaea5f076207b.jpg",
+    "static/media/danza-rueda-chapaca.jpg": "/dancesbo/static/media/danza-rueda-chapaca.112f4c1d0b99a6bbcb11.jpg",
+    "static/media/caporales.jpg": "/dancesbo/static/media/caporales.055d4027545b1f609e9f.jpg",
+    "static/media/cueca-chapaca.jpg": "/dancesbo/static/media/cueca-chapaca.6312e5d827879e6581fd.jpg",
+    "static/media/chovena.jpg": "/dancesbo/static/media/chovena.ddeda301a7a87f44c914.jpg",
+    "static/media/cuecaChuqui.jpg": "/dancesbo/static/media/cuecaChuqui.09130345bde85a64c831.jpg",
+    "static/media/waca waca.jpg": "/dancesbo/static/media/waca waca.51a054dcff16d4718784.jpg",
+    "static/media/cuecaC.jpg": "/dancesbo/static/media/cuecaC.e00c6016fafa5c1d2c70.jpg",
+    "static/media/chacarera.jpg": "/dancesbo/static/media/chacarera.4dd49775c2f6b282cdbc.jpg",
+    "static/media/diablada.jpg": "/dancesbo/static/media/diablada.1647996c3098f6b40068.jpg",
+    "static/media/salay.jpg": "/dancesbo/static/media/salay.7973550cdf2bc7ed5e08.jpg",
+    "static/media/Danza-el-Huayno-1.jpg": "/dancesbo/static/media/Danza-el-Huayno-1.0b1aaaaae56c0067bc62.jpg",
+    "static/media/sarao.jpg": "/dancesbo/static/media/sarao.653a6a75ad4c36864428.jpg",
+    "static/media/kallawayas.jpg": "/dancesbo/static/media/kallawayas.f234ffce30f10fb38c0a.jpg",
+    "static/media/taquirari.jpg": "/dancesbo/static/media/taquirari.49928884420449de996e.jpg",
+    "static/media/tobas01.jpg": "/dancesbo/static/media/tobas01.7abe5e84edd23b05518a.jpg",
+    "static/media/pujllay.jpg": "/dancesbo/static/media/pujllay.6bae0d48c44c3dcda5b1.jpg",
+    "index.html": "/dancesbo/index.html",
+    "main.34fe955b.css.map": "/dancesbo/static/css/main.34fe955b.css.map",
+    "main.d01816ac.js.map": "/dancesbo/static/js/main.d01816ac.js.map",
+    "787.fd10fff4.chunk.js.map": "/dancesbo/static/js/787.fd10fff4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34fe955b.css",
+    "static/js/main.d01816ac.js"
+  ]
+}
